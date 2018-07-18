@@ -1,0 +1,11 @@
+.title {
+  text-align: center;
+  color: blue;
+}
+
+div {
+  background-color: lightblue;
+  height: 400px;
+  width: 300px;
+  padding: 5;
+}
