@@ -5,8 +5,8 @@
 
 div {
   background-color: lightblue;
-  height: 400px;
-  width: 300px;
+  border: 2 px solid black;
+  border-collapse: collapse;
   padding: 5;
 }
 table {
