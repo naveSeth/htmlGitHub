@@ -22,3 +22,15 @@ th, td {
   border: 1px solid black;
   padding: 7px;
 }
+
+input[type ="password"] {
+  background-color: gray;
+}
+
+.submit {
+  background-color: orange;
+  height: 20px;
+}
+.submit:hover {
+  background-color: red;
+}
