@@ -6,7 +6,6 @@
 div {
   background-color: lightblue;
   border: 2 px solid black;
-  border-collapse: collapse;
   padding: 5;
 }
 table {
