@@ -27,10 +27,17 @@ input[type ="password"] {
   background-color: gray;
 }
 
-.submit {
+.button {
   background-color: orange;
-  height: 20px;
+  height: 70px;
+  width: 100px;
 }
-.submit:hover {
+.button:hover {
   background-color: red;
+}
+
+@@media print {
+  .dontprint {
+    display: none;
+  }
 }
